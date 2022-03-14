@@ -10,5 +10,5 @@ jobs:
           go-version: 1.15
       - name: Run go test and
         run: |
-          go test go tes
+          go test go test
           go math.go
