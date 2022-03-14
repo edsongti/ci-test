@@ -11,4 +11,4 @@ jobs:
       - name: Run go test and
         run: |
           go test
-          go math.go
+          go run math.go
